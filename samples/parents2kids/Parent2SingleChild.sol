@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.0 <0.30.0;
-contract parent2singlechild{
+contract Parent2SingleChild{
     address kid;
     uint maturity;
     event TransactionInfo(
